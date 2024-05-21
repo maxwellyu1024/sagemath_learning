@@ -1,4 +1,4 @@
-# 基于Windows搭建SageMath开发环境,并且运行Python脚本
+# 基于Windows搭建SageMath开发环境，并且运行Python脚本（适合研究SageMath源代码）
 
 ## 0.下载安装SageMath
 

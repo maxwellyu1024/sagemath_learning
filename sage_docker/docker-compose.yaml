@@ -1,0 +1,9 @@
+services:
+  sagemath:
+    image: sagemath/sagemath:latest
+    restart: always
+    ports:
+      - '8888:8888'
+    command: sage-jupyter
+    volumes:
+      - './sagescript:/home/sage/sagescript'
