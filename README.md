@@ -18,3 +18,10 @@
 
 [使用SageMath，根据公钥计算私钥，比特币核心算法secp256k1破解](sage_secp256k1/README.md)
 
+## 加入学习群
+
+国内使用SageMath的人比较少，近些年大学开设了密码科学与技术和信息安全专业学习的人才有了一些，如果有交流学习的可以扫码加入或者加我微信: discrete_log ,备注来源: sage
+
+
+![](sagemath_groups.jpg)
+

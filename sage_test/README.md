@@ -68,8 +68,6 @@ cd /cygdrive/c/gitrepo/github.com/sagemath/sage/src/sage_test
 
 官方介绍的一些IDE环境都是好几年前的了,都尝试过了一遍,没有能够在Windows上正常使用的,sage-support谷歌组里面是建议使用sage-shell,然后编码使用PyCharm.
 
-感觉国内使用SageMath的人比较少,如果有交流学习的可以加我微信: discrete_log ,备注来源: sage
-
 https://wiki.sagemath.org/IDE
 
 https://ask.sagemath.org/question/39742/make-pycharm-recognise-the-sage-python-interpreter/
@@ -88,3 +86,12 @@ https://blog.csdn.net/gridrender/article/details/118411215
 中文文档:https://www.osgeo.cn/sagemath/
 
 官方文档:https://doc.sagemath.org/index.html
+
+
+## 加入学习群
+
+国内使用SageMath的人比较少，近些年大学开设了密码科学与技术和信息安全专业学习的人才有了一些，如果有交流学习的可以扫码加入或者加我微信: discrete_log ,备注来源: sage
+
+
+![](../sagemath_groups.jpg)
+
