@@ -67,7 +67,19 @@ services:
 
 ![](images/sage_vscode3.png)
 
+### 运行方式三
 
+将docker放入后台运行
+
+```
+docker-compose up -d
+```
+
+通过以下命令获得启动日志中的访问地址
+
+```
+docker-compose logs -n 500
+```
 
 ## 加入学习群
 
