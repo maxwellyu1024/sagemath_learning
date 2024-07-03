@@ -17,7 +17,7 @@ https://hub.docker.com/r/sagemath/sagemath
 docker run -p8888:8888 sagemath/sagemath:latest sage-jupyter
 ```
 
-运行取来服务后在命令行控制台（终端）找到启动日志中类似于：
+运行起来服务后在命令行控制台（终端）找到启动日志中类似于：
 
 http://127.0.0.1:8888/tree?token=254faef2b4c2f0835c8868a1153893412d1803bf3dc32363
 
